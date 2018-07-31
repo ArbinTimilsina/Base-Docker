@@ -1,10 +1,10 @@
 # Arbin-Docker
-https://hub.docker.com/r/arbint/arbin-docker/
+https://hub.docker.com/r/arbint/base-docker/
 
 
 Docker Pull Command
 ```
-docker pull arbint/arbin-docker
+docker pull arbint/base-docker
 ```
 
 ## Details
